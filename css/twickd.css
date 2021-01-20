@@ -11117,7 +11117,7 @@ body .btn-primary:not(:disabled):not(.disabled):not(.btn-link):active {
     color: #999;
   }
   body .color-white {
-    color: #fff !important;
+    color: #828282 !important;
   }
   body .background-color-white {
     background-color: #fff;
