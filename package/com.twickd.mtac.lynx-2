@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Twickd is the best place to experience next generation software. Join our amazing community and start sharing and finding amazing iOS Tweaks and Themes for your Perfect Jailbreak setup!">
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" href="https://twickd.com/images/favicon.png/96" sizes="96x96">
+    
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="BRfK5XEUFX0tfjQQ0dCf17zlA5OykNZNuOPk5cfg">
+    
+    <!-- Apple -->
+    <meta name="apple-mobile-web-app-title" content="Twickd">
+    <link rel="apple-touch-icon" href="https://twickd.com/images/favicon.png/120">
+    <link rel="apple-touch-icon" size="120x120" href="https://twickd.com/images/favicon.png/120">
+    <link rel="apple-touch-icon" size="180x180" href="https://twickd.com/images/favicon.png/180">
+
+    <!-- Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-159036453-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-159036453-1');
+    </script>
+
+    <!-- Meta -->
+            <meta property="og:url"
+      content="https://repo.twickd.com/package/com.twickd.mtac.lynx-2">
+<meta property="og:title"
+      content="Lynx 2 — Twickd Repository">
+<meta property="og:description"
+      content="Ultimate iDevice Customization for iOS 14+">
+<meta property="og:image"
+      content="https://twickd.com/cdn/screenshots/6fb2a1fcf8e7d9678fbf155f30e05ff1/default">
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="Twickd">
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@TwickdRepo" />
+    
+    <title>Lynx 2 — Twickd</title>
+
+    <!-- Scripts -->
+    <script src="https://repo.twickd.com/js/app.js" defer></script>
+
+    <!-- Analytics -->
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    
+    <link href="https://repo.twickd.com/css/twickd.css" rel="stylesheet">
+</head>
+<body class="dark">
+    <div id="app" >
+                                                        <nav>
+
+    <div class="container h-100">
+        <div class="row align-items-center h-100">
+            <div class="col-4 col-sm-3">
+                                                                <a href="https://twickd.com" class="nav-brand">
+                                        <img src="https://repo.twickd.com/storage/static_images/logo_primary.svg" class="svg-42">
+                                    </a>
+            </div>
+    
+            <div class="navigation col-2 col-sm-6 text-center">
+                                                    <a href="https://repo.twickd.com" class="btn btn-link  btn-subtile ">Repository</a>
+                    <a href="https://twickd.com/news" class="btn btn-link  btn-subtile ">News</a>
+                    
+                                            </div>
+    
+            <div class="navigation-right col-6 col-sm-3 text-right">
+                <div class="btn-group">
+                    <a href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre
+                        class="dropdown-toggle  color-primary  d-flex align-items-center">
+                        <ion-icon name="ios-contact" size="large"></ion-icon>
+                        <div class="d-flex flex-column justify-content-center text-left color-subtile  mx-2" style="line-height: 1;">
+                                                            <span class="p-0 m-0">Sign In OR</span>
+                                <h6 class="font-weight-bold p-0 m-0 text-uppercase">Sign Up</h6>
+                                                    </div>
+                        <ion-icon name="ios-arrow-down"></ion-icon>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right background-color-weak" aria-labelledby="navbarDropdown">
+                                                    <a class="dropdown-item btn-link btn-primary" href="https://twickd.com/login">Login</a>
+                                                            <a class="dropdown-item btn-link btn-primary" href="https://twickd.com/register">Register</a>
+                                                                        </div>
+                </div>
+    
+                    
+            </div>
+        </div>
+    </div>
+
+</nav>                                    
+
+        <main class="pt-4 pb-0  container-fluid">
+            
+<div class="container"
+     itemscope
+     itemtype="http://schema.org/Product">
+    <meta itemprop="brand"
+          content="Twickd">
+    <meta itemprop="sku"
+          content="com.twickd.mtac.lynx-2">
+
+    <div class="row">
+        <div class="col-12 px-0 px-sm-3 d-flex justify-content-between align-items-center">
+            <div class="left d-flex w-100 align-items-center">
+                                <img itemprop="image"
+                     src="https://twickd.com/cdn/screenshots/c9ef2705ee156d4f04057322f50d381d/default"
+                     alt=""
+                     class="radius-15">
+                                
+                <div class="d-flex flex-column w-100 pl-3">
+                    <h1 itemprop="name"
+                        class="color-strong responsive">Lynx 2</h1>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <a href="https://twickd.com/profile/MTAC"
+                           class="dev-infos btn-strong px-0 btn btn-link d-flex">
+                                                        <img data-src="https://twickd.com/images/favicon.png/24"
+                                 width="24"
+                                 height="24"
+                                 class="lazy rounded-circle mr-2">
+                            
+                                                        <p>
+                                MTAC
+                            </p>
+                                                    </a>
+                                            </div>
+                </div>
+            </div>
+                                    <div itemprop="offers"
+                 class="d-flex flex-column align-items-end w-100"
+                 itemscope
+                 itemtype="http://schema.org/Offer">
+                <a itemprop="url"
+                                      href="https://payment.twickd.com/initialize/bdce4ace63786e874650af7cb5147050"
+                   class="btn btn-price btn-dominant-blue ">
+                    <span itemprop="priceCurrency"
+                          content="USD">$</span><span itemprop="price">2.00</span>
+                </a>
+                            </div>
+                                </div>
+    </div>
+
+    
+    <div class="row">
+        <div class="col-12 px-0 px-sm-3 d-flex flex-column">
+            <ul class="nav nav-tabs border-color-smooth justify-content-around"
+                id="depictionNav"
+                role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active nav-link-dominant-blue"
+                       id="detail-tab"
+                       data-toggle="tab"
+                       href="#detail"
+                       role="tab"
+                       aria-controls="detail"
+                       aria-selected="true">Detail</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-dominant-blue"
+                       id="changelog-tab"
+                       data-toggle="tab"
+                       href="#changelog"
+                       role="tab"
+                       aria-controls="changelog"
+                       aria-selected="false">Changelog</a>
+                </li>
+            </ul>
+                                    <div class="tab-content"
+                 id="depictionNavContent">
+
+                <div class="tab-pane show active color-strong"
+                     id="detail"
+                     role="tabpanel"
+                     aria-labelledby="detail-tab">
+                    <p itemprop="description"
+                       class="font-weight-bold py-4">Ultimate iDevice Customization for iOS 14+</p>
+                    <div class="ads full-width">
+                        
+                        <script async
+                                type="text/javascript"
+                                src="//cdn.carbonads.com/carbon.js?serve=CE7D5K3W&placement=twickdcom"
+                                id="_carbonads_js"></script>
+                    </div>
+                    <div id="screenshots"
+                         class="screenshot-carousel">
+                                                <div class="position-relative">
+                                                                                     <img data-src="https://twickd.com/cdn/screenshots/95e9b3bdb0bd9e2c0ac7a1d56764a102/default"
+                                 class="img-fluid screenshot lazy">                                                     </div>
+                                                <div class="position-relative">
+                                                                                     <img data-src="https://twickd.com/cdn/screenshots/e42991633e7b214d6f6063ad8bf0399a/default"
+                                 class="img-fluid screenshot lazy">                                                     </div>
+                                                <div class="position-relative">
+                                                                                     <img data-src="https://twickd.com/cdn/screenshots/a3299549f95f89eb81cd55b08e76f618/default"
+                                 class="img-fluid screenshot lazy">                                                     </div>
+                                                <div class="position-relative">
+                                                                                     <img data-src="https://twickd.com/cdn/screenshots/c65ce99e207846e8ecea88493bbcb2a8/default"
+                                 class="img-fluid screenshot lazy">                                                     </div>
+                                            </div>
+                    <div class="description markdown">
+                        <h2>Lynx 2 - Ultimate Device Customization for iOS 14</h2>
+<p>Requires Cephei from <a href="https://repo.chariz.io/">Chariz</a>, and <a href="https://sparkdev.me/repo">libsparkcolourpicker</a> and <a href="https://sparkdev.me/repo">libSparkAppList</a></p>
+<p>On iOS 12 or 13? Try out <a href="https://repo.twickd.com/package/com.twickd.mtac.lynx">Lynx 1</a></p>
+<p>If you cannot purchase Lynx for any reason, contact me on Twitter and we can work something out</p>
+<h3>Current Features</h3>
+<p>Lynx Settings Page</p>
+<ul>
+<li>Choice between list or grid layout</li>
+<li>Search bars for looking for specific feature</li>
+</ul>
+<p>SpringBoard (System Wide)</p>
+<ul>
+<li>Select Dark/Light apps</li>
+<li>Select custom app tint (badges, navigation bars, tab bars)</li>
+<li>Hide Bluetooth and Paste banners</li>
+<li>Disable plugged in vibration</li>
+<li>Lock device when facedown</li>
+<li>Hide Dock Background</li>
+<li>Hide Dock divider (iPadOS)</li>
+<li>Double tap Homescreen to lock</li>
+<li>Disable SpringBoard rotation</li>
+<li>Hide table view separators</li>
+<li>Use modern table view style</li>
+<li>Hide scroll bars</li>
+<li>Hide search bars</li>
+<li>Hide search bar backgrounds</li>
+<li>Hide Home Bar (globally, lockscreen &amp; homescreen)</li>
+<li>Use custom Home Bar height &amp; width</li>
+<li>Use small navigation bar titles</li>
+<li>Hide navigation bar accent line</li>
+<li>Select custom switch color</li>
+<li>Hide system separators</li>
+<li>Tint tab bar badges with app</li>
+<li>Hide tab bar labels</li>
+<li>Use haptic feedback on tab bar buttons</li>
+<li>Hide Homescreen page dots</li>
+<li>Hide screenshot preview</li>
+<li>Disable screenshot sound</li>
+<li>Hide open folder background</li>
+<li>Hide open folder title</li>
+<li>Hide folder icon background view</li>
+</ul>
+<p>Lockscreen</p>
+<ul>
+<li>Enable MagSafe animation</li>
+<li>Hide clock label</li>
+<li>Hide clock subtitle</li>
+<li>Custom clock alpha</li>
+<li>Custom clock subtitle alpha</li>
+<li>Set custom clock font weight</li>
+<li>Set custom clock font size</li>
+<li>Set custom clock font</li>
+<li>Hide Control Center grabber</li>
+<li>Hide battery view</li>
+<li>Always use Do Not Disturb dark style</li>
+<li>Hide Press to 'Unlock/Swipe up to Unlock' text</li>
+<li>Use custom 'Press to Unlock/Swipe up to Unlock' text</li>
+<li>Show Press to 'Unlock/Swipe up to Unlock' text immmediately</li>
+<li>Hide Page Dots</li>
+<li>Hide Do Not Disturb banner</li>
+<li>Pull to clear notifications</li>
+<li>Use Modern notification icons</li>
+<li>Hide notification swipe separators</li>
+<li>Hide passcode cancel button</li>
+<li>Hide passcode emergency button</li>
+<li>Hide passcode backspace button</li>
+<li>Hide 'Enter Passcode' text</li>
+<li>Use custom 'Enter Passcode' text</li>
+<li>Use passcode button haptic feedback</li>
+<li>Hide both or individual Lockscreen quick action buttons</li>
+<li>Hide Lockscreen quick action button background blur</li>
+<li>Show number of notifications in app group</li>
+<li>Hide 'No Older Notifications'</li>
+</ul>
+<p>App Library</p>
+<ul>
+<li>Disable App Library on iPhone</li>
+<li>Open in list mode by default</li>
+<li>Hide Pod background blur</li>
+<li>Hide Pod category name</li>
+<li>Hide folder app labels</li>
+<li>Hide folder titles</li>
+<li>Hide search bar blur</li>
+<li>Hide magnifying glass icon</li>
+<li>Haptic feedback on open</li>
+<li>Haptic feedback on close</li>
+</ul>
+<p>Status Bar</p>
+<ul>
+<li>Use iPad style on iPhone</li>
+<li>Hide iPad style date</li>
+<li>Hide Camera and Microphone usage dot</li>
+<li>Hide breadcrumbs</li>
+<li>Hide globally</li>
+<li>Hide on Lockscreen</li>
+<li>Hide on Homescreen</li>
+<li>Hide battery</li>
+<li>Hide battery bolt</li>
+<li>Show battery percentage inside icon</li>
+<li>Hide Wi-Fi signal</li>
+<li>Hide cell signal</li>
+<li>Hide clock</li>
+<li>Hide carrier text</li>
+<li>Hide location arrow</li>
+<li>Hide rotation lock</li>
+<li>Hide Do No Disturb moon</li>
+<li>Hide Bluetooth icon</li>
+<li>Hide Alarm bell</li>
+<li>Hide Airplane mode</li>
+<li>Hide VPN icon</li>
+<li>Hide CarPlay icon</li>
+<li>Hide 'Not Charging' text</li>
+<li>Hide lock icon (non notched devices)</li>
+<li>Hide screen recording colored pill/bar</li>
+<li>Hide screen recording pill/bar</li>
+<li>Use Wi-Fi address as carrier text</li>
+<li>Use custom carrier text</li>
+<li>Use current date as carrier, and set custom format</li>
+<li>Use custom time format</li>
+</ul>
+<p>Icons</p>
+<ul>
+<li>Hide 3D Touch remove stack</li>
+<li>Hide 3D Touch configure widget</li>
+<li>Hide 3D Touch configure stack</li>
+<li>Hide 3D Touch edit homescreen</li>
+<li>Hide 3D Touch share app</li>
+<li>Hide 3D Touch delete app</li>
+<li>Hide 3D Touch pause download</li>
+<li>Hide 3D Touch cancel download</li>
+<li>Hide 3D Touch prioritize download</li>
+<li>Hide 3D Touch separators</li>
+<li>Hide 3D Touch images</li>
+<li>Show Wi-Fi address on settings platter</li>
+<li>Show battery percentage on settings platter</li>
+<li>Add 'Clear Badges' option</li>
+<li>Hide icon labels</li>
+<li>Use custom icon label color</li>
+<li>Hide recently updated dots</li>
+<li>Hide beta app dots</li>
+<li>Use average icon badge color</li>
+<li>Hide icon badges</li>
+<li>Hide icon badge text</li>
+</ul>
+<p>App Switcher</p>
+<ul>
+<li>Use grid style (iPhone)</li>
+<li>Use page style (iPad)</li>
+<li>Hide app suggestion banner</li>
+<li>3D Touch to kill all running apps</li>
+<li>Use kill all apps confirmation</li>
+<li>Prevent killing of now playing apps</li>
+<li>Disable side 3D touch gesture</li>
+</ul>
+<p>Widgets</p>
+<ul>
+<li>Hide labels on Homescreen</li>
+<li>Hide stack side scroll dots</li>
+<li>Tap on battery widget for Low Power Mode</li>
+<li>Hide battery widget empty rings</li>
+<li>Hide battery widget separator lines (4x4)</li>
+<li>Hide Siri widget separator lines (4x4)</li>
+</ul>
+<p>Control Center</p>
+<ul>
+<li>Disable Control Center</li>
+<li>Actually disable Wi-Fi &amp; Bluetooth</li>
+<li>Hide Camera and Microphone usage label</li>
+<li>Use rounded modules</li>
+<li>Show volume and brightness slider percentages</li>
+<li>Hide top chevron</li>
+</ul>
+<p>Settings</p>
+<ul>
+<li>Use custom first name</li>
+<li>Use custom last name</li>
+<li>Hide cell icons</li>
+<li>Use rounded cell icons</li>
+<li>Hide chevrons</li>
+<li>Hide 3rd Party Apps</li>
+<li>Hide COVID-19 exposure notifications</li>
+<li>Show local Wi-Fi address</li>
+</ul>
+<p>Music</p>
+<ul>
+<li>Hide 'Up Next' &amp; 'Queue' popups</li>
+<li>Show all recently added songs in Library</li>
+<li>Use 3 column recently added list (iPhone)</li>
+</ul>
+<p>Photos</p>
+<ul>
+<li>Skip photo deletion</li>
+<li>Show image size in title</li>
+<li>Use infinite zoom</li>
+</ul>
+<p>AppStore</p>
+<ul>
+<li>Replace Arcade tab with updates button</li>
+</ul>
+<p>Phone</p>
+<ul>
+<li>Hide dialer button background</li>
+<li>Show exact call time</li>
+<li>Change date format of calls</li>
+<li>Hide 3rd party app calls</li>
+<li>Hide voicemail tab</li>
+<li>Hide call button background</li>
+<li>Use custom call button background</li>
+</ul>
+<p>Messages</p>
+<ul>
+<li>Hide pinned conversation glow</li>
+<li>Hide separators in conversation list</li>
+<li>Use custom pinned bubble background color</li>
+<li>Use custom pinned bubble label text color</li>
+</ul>
+<p>Camera</p>
+<ul>
+<li>Use iPad style layout</li>
+<li>Hide recent picture preview</li>
+<li>Disable shutter sound</li>
+</ul>
+<p>Experimental features</p>
+<ul>
+<li>Use notched status bar on non native device</li>
+<li>Use flat Safari search bar</li>
+<li>Set custom screen corner radius</li>
+<li>Use custom icon scale</li>
+</ul>                    </div>
+                </div>
+
+                <div class="tab-pane"
+                     id="changelog"
+                     role="tabpanel"
+                     aria-labelledby="changelog-tab">
+                                        <div class="changelog py-3">
+                        <h4 class="font-weight-bold color-strong">Version 2.0.2</h4>
+                        <p class="color-subtile"><p>Fix random power connect tones</p></p>
+                    </div>
+                                        <div class="changelog py-3">
+                        <h4 class="font-weight-bold color-strong">Version 2.0</h4>
+                        <p class="color-subtile"><p>Initial Release</p></p>
+                    </div>
+                                    </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<section id="informations"
+         class="background-color-smooth row mt-4">
+    <div class="container">
+        <h3 class="color-strong pb-3">Informations</h3>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <ul class="list-group background-color-smooth border-0">
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">Version</span>
+                        <span class="color-strong">2.0.2</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">Updated</span>
+                        <span class="color-strong">Jan 04, 2021</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">Price</span>
+                        <span class="color-strong">
+                                                        $2.00
+                                                    </span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">iOS Version(s)</span>
+                        <span class="color-strong">14.0 - 14.3</span>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="d-none d-lg-block col-lg-4">
+                <a href="mailto:mtactheming@gmail.com?subject=[Support][Lynx 2]"
+                   class="btn btn-weak color-dominant-blue w-100 py-3 px-0 px-md-3 justify-content-between align-items-center d-flex ">
+                    Contact the Support
+                    <ion-icon name="ios-arrow-forward"></ion-icon>
+                </a>
+                            </div>
+            <div class="d-none d-lg-block col-lg-4">
+                <a href="#"
+                   class="btn btn-weak mb-3 color-dominant-blue w-100 py-3 px-0 px-md-3 justify-content-between align-items-center d-flex disabled">
+                    Gift to a Friend
+                    <ion-icon name="ios-arrow-forward"></ion-icon>
+                </a>
+                <a href="https://gift.twickd.com/redeem"
+                   class="btn btn-weak color-dominant-blue w-100 py-3 px-0 px-md-3 justify-content-between align-items-center d-flex ">
+                    Redeem a Gift Code
+                    <ion-icon name="ios-arrow-forward"></ion-icon>
+                </a>
+            </div>
+
+            <div class="d-flex d-lg-none col-12">
+                <ul class="list-group border-0 w-100">
+                    <li class="list-group-item">
+                        <a href="mailto:mtactheming@gmail.com?subject=[Support][Lynx 2]"
+                           class="btn p-0 justify-content-between align-items-center d-flex w-100 btn-link  btn-dominant-blue">Contact the Support <ion-icon name="ios-arrow-forward"></ion-icon></a>
+                    </li>
+                                        <li class="list-group-item">
+                        <a href="#"
+                           class="btn p-0 justify-content-between align-items-center d-flex w-100 btn-link btn-dominant-blue disabled">Gift to a Friend <ion-icon name="ios-arrow-forward"></ion-icon></a>
+                    </li>
+                    <li class="list-group-item">
+                                                <a href="https://gift.twickd.com/redeem"
+                           class="btn p-0 justify-content-between align-items-center d-flex w-100 btn-link btn-dominant-blue">Redeem a Gift Code <ion-icon name="ios-arrow-forward"></ion-icon></a>
+                                            </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<div id="moreby"
+     class="container pt-60">
+    <div class="row">
+        <div class="col-12">
+            <h3 class="color-strong pb-3">More by <a href="https://twickd.com/profile/MTAC"
+                   class="color-primary">MTAC<a></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="cards card-carousel"
+                 id="featured-cards">
+                                <a href="https://repo.twickd.com/package/com.twickd.mtac.cleantabs13">
+                    <div class="card card-small background-color-dominant-black mr-3">
+                        <img data-src="https://twickd.com/cdn/package/com.twickd.mtac.cleantabs13/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/e9eefb8bb4968d2785a3d11b1f92f929/default">
+                                <p class="color-white font-weight-bold mt-2">CleanTabs13</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mtac.astrid">
+                    <div class="card card-small background-color-dominant-blue mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/7c9bbf4cc36a75fe4150a205b790f052/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/60dcfde51452aae9ef947cde9810ad70/default">
+                                <p class="color-white font-weight-bold mt-2">Astrid</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mtac.lynx-application">
+                    <div class="card card-small background-color-dominant-blue mr-3">
+                        <img data-src="https://twickd.com/cdn/package/com.twickd.mtac.lynx-application/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/debc3b0dbadb48954170d1a2354ea58a/default">
+                                <p class="color-white font-weight-bold mt-2">Lynx Application</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mtac.nosettingschevrons">
+                    <div class="card card-small background-color-dominant-green mr-3">
+                        <img data-src="https://twickd.com/cdn/package/com.twickd.mtac.nosettingschevrons/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/bbe8458169ab9a525b7d5ba6651ec94f/default">
+                                <p class="color-white font-weight-bold mt-2">NoSettingsChevrons</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mtac.nosharexiii">
+                    <div class="card card-small background-color-dominant-orange mr-3">
+                        <img data-src="https://twickd.com/cdn/package/com.twickd.mtac.nosharexiii/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/074d9316198802b3c351aaea7c3248aa/default">
+                                <p class="color-white font-weight-bold mt-2">NoShareXIII</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mtac.lynx">
+                    <div class="card card-small background-color-dominant-blue mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/72de1e2961e7a7bf94df694cd05316b0/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/6195125da9033aac54ffa8c087ff0eaa/default">
+                                <p class="color-white font-weight-bold mt-2">Lynx</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mtac.flaturl">
+                    <div class="card card-small background-color-dominant-purple mr-3">
+                        <img data-src="https://twickd.com/cdn/package/com.twickd.mtac.flaturl/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/ea9837d5051f77ece01a06f12a2c33e3/default">
+                                <p class="color-white font-weight-bold mt-2">FlatURL</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mtac.fingerlock">
+                    <div class="card card-small background-color-dominant-blue mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/9fd9b04f026ea56732ce6a0a7798e05d/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/0f56e9ba99036d841bcdf410cfdaa381/default">
+                                <p class="color-white font-weight-bold mt-2">FingerLock</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mtac.scrollbarbegone">
+                    <div class="card card-small background-color-dominant-red mr-3">
+                        <img data-src="https://twickd.com/cdn/package/com.twickd.mtac.scrollbarbegone/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/c0de6008ca0fb2c5330ed270ae95547e/default">
+                                <p class="color-white font-weight-bold mt-2">ScrollBarBeGone</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mtac.marqify">
+                    <div class="card card-small background-color-dominant-yellow mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/b371d31a11b34a117bafa43395eeb61c/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/b1c0489ba945750e027d8c8596c0c5c4/default">
+                                <p class="color-white font-weight-bold mt-2">Marqify</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                            </div>
+        </div>
+    </div>
+    
+</div>
+
+<div class="modal fade color-subtile"
+     id="reportModal"
+     tabindex="-1"
+     role="dialog"
+     aria-labelledby="reportModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog"
+         role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"
+                    id="reportModalLabel">New Report</h5>
+                <button type="button"
+                        class="close"
+                        data-dismiss="modal"
+                        aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form action="https://repo.twickd.com/package/com.twickd.mtac.lynx-2/report"
+                  method="POST">
+                <input type="hidden" name="_token" value="BRfK5XEUFX0tfjQQ0dCf17zlA5OykNZNuOPk5cfg">                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="reportPackage"
+                               class="col-form-label">Package:</label>
+                        <input type="text"
+                               class="form-control"
+                               id="reportPackage"
+                               disabled
+                               value="Lynx 2">
+                    </div>
+                    <div class="form-group">
+                        <label for="reportReason"
+                               class="col-form-label">Reason (280 characters maximum):</label>
+                        <textarea class="form-control"
+                                  name="reason"
+                                  id="reportReason"
+                                  maxlength="280"
+                                  required></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer flex-column">
+                    <p class="color-subtile">Be advised that abusing the report system will result in an instant termination of your account</p>
+                    <p class="color-dominant-red font-weight-bold mb-2">Do not use for support requests OR to request a refund!</p>
+                    <div class="d-flex justify-content-end w-100">
+                        <button type="button"
+                                class="btn btn-link btn-subtile"
+                                data-dismiss="modal">Cancel</button>
+                        <button type="submit"
+                                class="btn btn-primary">Send report</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+        </main>
+
+        
+                    <footer class="background-color-weak ">
+    <div class="container">
+        <div class="row reveal border-bottom border-color-smooth">
+            <div class="col-sm-12 col-md-12 col-lg-3 mb-3 reveal-1">
+                <div class="d-flex align-items-center pb-3 justify-content-center justify-content-md-start">
+                    <img src="https://repo.twickd.com/storage/static_images/logo_primary.svg" class="svg-42">
+                    <h3 class="color-strong pl-3">Twickd</h3>
+                </div>
+                <span class="d-none d-md-block">Hey listen, we know you're bored if you read this. So might as well come and chat with us on social medias!</span>
+
+                <div class="socials pt-3 d-none d-md-flex">
+                    <a href="https://twitter.com/TwickdRepo" class="btn-link btn-strong"><ion-icon size="large" name="logo-twitter"></ion-icon></a>
+                    <a href="https://github.com/Twickd" class="btn-link btn-strong pl-3"><ion-icon size="large" name="logo-github"></ion-icon></a>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-4 col-md-4 col-lg-3 pb-3 pb-sm-0 reveal reveal-2">
+                <h3 class="color-strong pb-0 pb-sm-3">Learn</h3>
+                <div class="row px-3">
+                    <div class="reveal-1 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://twickd.com" class="px-0 btn btn-link btn-primary">Home</a></div>
+                    <div class="reveal-3 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://twickd.com/news" class="px-0 btn btn-link btn-primary">News</a></div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4 col-md-4 col-lg-3 pb-3 pb-sm-0 reveal reveal-2">
+                <h3 class="color-strong pb-0 pb-sm-3">Explore</h3>
+                <div class="row px-3">
+                    <div class="reveal-2 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://repo.twickd.com" class="px-0 btn btn-link btn-primary">Repository</a></div>
+                    <div class="reveal-2 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://account.twickd.com" class="px-0 btn btn-link btn-primary">Account</a></div>
+                    <div class="reveal-2 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://developer.twickd.com/panel" class="px-0 btn btn-link btn-primary">Developer</a></div>
+                </div>
+            </div>
+
+                        <div class="col-12 col-sm-4 col-md-4 col-lg-3 reveal reveal-3">
+                <h3 class="color-strong pb-0 pb-sm-3">Latest News</h3>
+                                                    <div class="row px-3 mb-3 flex-column">
+                        <h5 class="color-subtile">The future of Twickd</h5>
+                        <a href="https://twickd.com/news/the-future-of-twickd">Read the article</a>
+                    </div>
+                                    <div class="row px-3 mb-3 flex-column">
+                        <h5 class="color-subtile">Become a Developer on Twickd in less than 5 minutes!</h5>
+                        <a href="https://twickd.com/news/become-a-developer-on-twickd-in-less-than-5-minutes">Read the article</a>
+                    </div>
+                            </div>
+                    </div>
+        <div class="row">
+            <div class="col-12 pt-3 d-flex flex-column align-items-center flex-md-row justify-content-md-between px-lg-0">
+                <p class="color-subtile">
+                    Copyright &copy; 2021 — Twickd
+                </p>
+                <div class="text-right">
+                    <a href="https://twickd.com/terms-of-services" class="color-subtile">Terms of Service</a> •
+                    <a href="https://twickd.com/privacy-policy" class="color-subtile">Privacy Policy</a> •
+                    <a href="https://twickd.com/developer-policy" class="color-subtile">Developer Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>            </div>
+
+    <a href="https://discord.gg/wXAfaCw" target="_open" class="alert background-color-primary text-center text-white alert-dismissible fade show" role="alert" style="position: fixed; bottom: 1rem; min-width: 270px; margin-left: -135px; left:50%;">
+        🏠 <strong>#StayHome</strong> with Twickd!
+        <button type="button" class="close" style="line-height: .8;" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </a>
+
+    
+    <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
+    </body>
+</html>

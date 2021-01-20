@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Twickd is the best place to experience next generation software. Join our amazing community and start sharing and finding amazing iOS Tweaks and Themes for your Perfect Jailbreak setup!">
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" href="https://twickd.com/images/favicon.png/96" sizes="96x96">
+    
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="BRfK5XEUFX0tfjQQ0dCf17zlA5OykNZNuOPk5cfg">
+    
+    <!-- Apple -->
+    <meta name="apple-mobile-web-app-title" content="Twickd">
+    <link rel="apple-touch-icon" href="https://twickd.com/images/favicon.png/120">
+    <link rel="apple-touch-icon" size="120x120" href="https://twickd.com/images/favicon.png/120">
+    <link rel="apple-touch-icon" size="180x180" href="https://twickd.com/images/favicon.png/180">
+
+    <!-- Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-159036453-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-159036453-1');
+    </script>
+
+    <!-- Meta -->
+            <meta property="og:url"
+      content="https://repo.twickd.com/package/com.twickd.ethan-whited.watchfacewidget">
+<meta property="og:title"
+      content="WatchFaceWidget — Twickd Repository">
+<meta property="og:description"
+      content="An awesome HSWidgets extension for WatchFace!">
+<meta property="og:image"
+      content="https://twickd.com/cdn/screenshots/f409a5bd710adea0837bbd127c0d84f1/default">
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="Twickd">
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@TwickdRepo" />
+    
+    <title>WatchFaceWidget — Twickd</title>
+
+    <!-- Scripts -->
+    <script src="https://repo.twickd.com/js/app.js" defer></script>
+
+    <!-- Analytics -->
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    
+    <link href="https://repo.twickd.com/css/twickd.css" rel="stylesheet">
+</head>
+<body class="dark">
+    <div id="app" >
+                                                        <nav>
+
+    <div class="container h-100">
+        <div class="row align-items-center h-100">
+            <div class="col-4 col-sm-3">
+                                                                <a href="https://twickd.com" class="nav-brand">
+                                        <img src="https://repo.twickd.com/storage/static_images/logo_primary.svg" class="svg-42">
+                                    </a>
+            </div>
+    
+            <div class="navigation col-2 col-sm-6 text-center">
+                                                    <a href="https://repo.twickd.com" class="btn btn-link  btn-subtile ">Repository</a>
+                    <a href="https://twickd.com/news" class="btn btn-link  btn-subtile ">News</a>
+                    
+                                            </div>
+    
+            <div class="navigation-right col-6 col-sm-3 text-right">
+                <div class="btn-group">
+                    <a href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre
+                        class="dropdown-toggle  color-primary  d-flex align-items-center">
+                        <ion-icon name="ios-contact" size="large"></ion-icon>
+                        <div class="d-flex flex-column justify-content-center text-left color-subtile  mx-2" style="line-height: 1;">
+                                                            <span class="p-0 m-0">Sign In OR</span>
+                                <h6 class="font-weight-bold p-0 m-0 text-uppercase">Sign Up</h6>
+                                                    </div>
+                        <ion-icon name="ios-arrow-down"></ion-icon>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right background-color-weak" aria-labelledby="navbarDropdown">
+                                                    <a class="dropdown-item btn-link btn-primary" href="https://twickd.com/login">Login</a>
+                                                            <a class="dropdown-item btn-link btn-primary" href="https://twickd.com/register">Register</a>
+                                                                        </div>
+                </div>
+    
+                    
+            </div>
+        </div>
+    </div>
+
+</nav>                                    
+
+        <main class="pt-4 pb-0  container-fluid">
+            
+<div class="container"
+     itemscope
+     itemtype="http://schema.org/Product">
+    <meta itemprop="brand"
+          content="Twickd">
+    <meta itemprop="sku"
+          content="com.twickd.ethan-whited.watchfacewidget">
+
+    <div class="row">
+        <div class="col-12 px-0 px-sm-3 d-flex justify-content-between align-items-center">
+            <div class="left d-flex w-100 align-items-center">
+                                <img itemprop="image"
+                     src="https://twickd.com/cdn/screenshots/437d2bad3d0c55a3e235496b14e41982/default"
+                     alt=""
+                     class="radius-15">
+                                
+                <div class="d-flex flex-column w-100 pl-3">
+                    <h1 itemprop="name"
+                        class="color-strong responsive">WatchFaceWidget</h1>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <a href="https://twickd.com/profile/Ethan%20Whited"
+                           class="dev-infos btn-strong px-0 btn btn-link d-flex">
+                                                        
+                            <img data-src="https://twickd.com/images/favicon.png/24"
+                                 width="24"
+                                 height="24"
+                                 class="lazy rounded-circle mr-2">
+                                                        <p>
+                                Ethan Whited
+                            </p>
+                                                    </a>
+                                            </div>
+                </div>
+            </div>
+                                    <div itemprop="offers"
+                 itemscope
+                 itemtype="http://schema.org/Offer">
+                <meta itemprop="price"
+                      content="0">
+                <meta itemprop="priceCurrency"
+                      content="USD">
+                <meta itemprop="url"
+                      content="https://repo.twickd.com/package/com.twickd.ethan-whited.watchfacewidget">
+                <span class="btn btn-price btn-dominant-green">FREE</span>
+            </div>
+                                </div>
+    </div>
+
+    
+    <div class="row">
+        <div class="col-12 px-0 px-sm-3 d-flex flex-column">
+            <ul class="nav nav-tabs border-color-smooth justify-content-around"
+                id="depictionNav"
+                role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active nav-link-dominant-green"
+                       id="detail-tab"
+                       data-toggle="tab"
+                       href="#detail"
+                       role="tab"
+                       aria-controls="detail"
+                       aria-selected="true">Detail</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-dominant-green"
+                       id="changelog-tab"
+                       data-toggle="tab"
+                       href="#changelog"
+                       role="tab"
+                       aria-controls="changelog"
+                       aria-selected="false">Changelog</a>
+                </li>
+            </ul>
+                                    <div class="tab-content"
+                 id="depictionNavContent">
+
+                <div class="tab-pane show active color-strong"
+                     id="detail"
+                     role="tabpanel"
+                     aria-labelledby="detail-tab">
+                    <p itemprop="description"
+                       class="font-weight-bold py-4">An awesome HSWidgets extension for WatchFace!</p>
+                    <div class="ads full-width">
+                        
+                        <script async
+                                type="text/javascript"
+                                src="//cdn.carbonads.com/carbon.js?serve=CE7D5K3W&placement=twickdcom"
+                                id="_carbonads_js"></script>
+                    </div>
+                    <div id="screenshots"
+                         class="screenshot-carousel">
+                                                <div class="position-relative">
+                                                                                     <img data-src="https://twickd.com/cdn/screenshots/a5f6f4d88e03ff77dce572eb9f55b525/default"
+                                 class="img-fluid screenshot lazy">                                                     </div>
+                                                <div class="position-relative">
+                                                                                     <img data-src="https://twickd.com/cdn/screenshots/ad0e9b9d977ca44f5752e7affdee915c/default"
+                                 class="img-fluid screenshot lazy">                                                     </div>
+                                                <div class="position-relative">
+                                                                                     <img data-src="https://twickd.com/cdn/screenshots/bdebd4e14ca09a69c421b426c7871cff/default"
+                                 class="img-fluid screenshot lazy">                                                     </div>
+                                            </div>
+                    <div class="description markdown">
+                        <h1>WatchFaceWidget</h1>
+<h2>Watch face widget for HSWidgets!</h2>
+<h1>Dependencies</h1>
+<h2>which are required in order to install WatchFaceWidget:</h2>
+<ul>
+<li>HSWIdgets - <code>https://dgh0st.github.io/</code></li>
+<li>libsparkcolourpicker = <code>https://sparkdev.me</code></li>
+</ul>
+<h3>Contact Me</h3>
+<ul>
+<li>
+<p><a href="https://twitter.com/ethanwhited"><strong>ETHN</strong></a> - follow me for more up to date info, or ask me anything.</p>
+</li>
+<li>
+<p><a href="mailto:ethanwhited2208@gmail.com"><strong>Email</strong></a> - open to any questions or concerns.</p>
+</li>
+<li>
+<p><a href="https://repo.twickd.com"><strong>Repo</strong></a> - Repo containing WatchFaceWidget</p>
+</li>
+</ul>                    </div>
+                </div>
+
+                <div class="tab-pane"
+                     id="changelog"
+                     role="tabpanel"
+                     aria-labelledby="changelog-tab">
+                                        <div class="changelog py-3">
+                        <h4 class="font-weight-bold color-strong">Version 1.3</h4>
+                        <p class="color-subtile"><p>Huge shoutout to iosthemem0d for helping fix the issues with prefs not saving! He added all of the features in this update!</p>
+<ul>
+<li>Fixed an issue where prefs weren't sticking</li>
+<li>Added 24 Hour Time to prefs</li>
+<li>Added an option to enable haptics when you tap</li>
+<li>Added an option for number of taps</li>
+<li>Added an option to select between colored background or blurred</li>
+</ul></p>
+                    </div>
+                                        <div class="changelog py-3">
+                        <h4 class="font-weight-bold color-strong">Version 1.2</h4>
+                        <p class="color-subtile"><ul>
+<li>24 hour time</li>
+<li>Separated minute and hour color</li>
+</ul></p>
+                    </div>
+                                        <div class="changelog py-3">
+                        <h4 class="font-weight-bold color-strong">Version 1.0</h4>
+                        <p class="color-subtile"><p>Initial Release</p></p>
+                    </div>
+                                    </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<section id="informations"
+         class="background-color-smooth row mt-4">
+    <div class="container">
+        <h3 class="color-strong pb-3">Informations</h3>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <ul class="list-group background-color-smooth border-0">
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">Version</span>
+                        <span class="color-strong">1.3</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">Updated</span>
+                        <span class="color-strong">Sep 28, 2020</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">Price</span>
+                        <span class="color-strong">
+                                                        Free
+                                                    </span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">iOS Version(s)</span>
+                        <span class="color-strong">13.0 - 13.7</span>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="d-none d-lg-block col-lg-4">
+                <a href="mailto:ethanwhited2208@gmail.com?subject=[Support][WatchFaceWidget]"
+                   class="btn btn-weak color-dominant-green w-100 py-3 px-0 px-md-3 justify-content-between align-items-center d-flex ">
+                    Contact the Support
+                    <ion-icon name="ios-arrow-forward"></ion-icon>
+                </a>
+                            </div>
+            <div class="d-none d-lg-block col-lg-4">
+                <a href="#"
+                   class="btn btn-weak mb-3 color-dominant-green w-100 py-3 px-0 px-md-3 justify-content-between align-items-center d-flex disabled">
+                    Gift to a Friend
+                    <ion-icon name="ios-arrow-forward"></ion-icon>
+                </a>
+                <a href="https://gift.twickd.com/redeem"
+                   class="btn btn-weak color-dominant-green w-100 py-3 px-0 px-md-3 justify-content-between align-items-center d-flex  disabled ">
+                    Redeem a Gift Code
+                    <ion-icon name="ios-arrow-forward"></ion-icon>
+                </a>
+            </div>
+
+            <div class="d-flex d-lg-none col-12">
+                <ul class="list-group border-0 w-100">
+                    <li class="list-group-item">
+                        <a href="mailto:ethanwhited2208@gmail.com?subject=[Support][WatchFaceWidget]"
+                           class="btn p-0 justify-content-between align-items-center d-flex w-100 btn-link  btn-dominant-green">Contact the Support <ion-icon name="ios-arrow-forward"></ion-icon></a>
+                    </li>
+                                        <li class="list-group-item">
+                        <a href="#"
+                           class="btn p-0 justify-content-between align-items-center d-flex w-100 btn-link btn-dominant-green disabled">Gift to a Friend <ion-icon name="ios-arrow-forward"></ion-icon></a>
+                    </li>
+                    <li class="list-group-item">
+                                                <a href="https://gift.twickd.com/redeem"
+                           class="btn p-0 justify-content-between align-items-center d-flex w-100 btn-link btn-dominant-green">Redeem a Gift Code <ion-icon name="ios-arrow-forward"></ion-icon></a>
+                                            </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<div id="moreby"
+     class="container pt-60">
+    <div class="row">
+        <div class="col-12">
+            <h3 class="color-strong pb-3">More by <a href="https://twickd.com/profile/Ethan%20Whited"
+                   class="color-primary">Ethan Whited<a></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="cards card-carousel"
+                 id="featured-cards">
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.fullplay">
+                    <div class="card card-small background-color-dominant-pink mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/00e511234df07f748ae948010d1fe8ce/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/533dbe38818069b92da5f757b6ff9f4e/default">
+                                <p class="color-white font-weight-bold mt-2">FullPlay</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.ability">
+                    <div class="card card-small background-color-dominant-cyan mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/5b97402e43a4860f95d9b9f50a8555f3/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/c684cc39fc6a15ae98b5dca2932d93a1/default">
+                                <p class="color-white font-weight-bold mt-2">Ability</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.utilitywidget">
+                    <div class="card card-small background-color-dominant-yellow mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/2caeed8044513918bb06e3210c510afa/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/2470fb00ba90c89b952ab3e60d871ab3/default">
+                                <p class="color-white font-weight-bold mt-2">UtilityWidget</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.nametag">
+                    <div class="card card-small background-color-dominant-red mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/044c1c4535941522a0ae6fa02884d158/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/7228e85a5739e9831c71837b58f29f97/default">
+                                <p class="color-white font-weight-bold mt-2">NameTag</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.dopeconvosbubbles">
+                    <div class="card card-small background-color-dominant-purple mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/68a9d434dea51d44cfbfc45f9e6c919d/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/80c6be4763e40343b2276dc97a93d431/default">
+                                <p class="color-white font-weight-bold mt-2">DopeConvosBubbles</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.catalina">
+                    <div class="card card-small background-color-dominant-blue mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/0a72afb9f15510ecc59bd432715afca3/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/548c8367b9d2083d5b2f3322376c679c/default">
+                                <p class="color-white font-weight-bold mt-2">Catalina</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.musicalbumscroll">
+                    <div class="card card-small background-color-dominant-pink mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/cb5c246631ae97e5cbd57ea368122aaa/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/f22086a81af6fa09a828b00f46594bdd/default">
+                                <p class="color-white font-weight-bold mt-2">MusicAlbumScroll</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.bigsursounds">
+                    <div class="card card-small background-color-dominant-red mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/108a3db05ad815b86371f0b9ca1fafc5/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/14e89946acb4b9fcd3f9b5d014a7511b/default">
+                                <p class="color-white font-weight-bold mt-2">BigSurSounds</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.musichswidget">
+                    <div class="card card-small background-color-dominant-pink mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/c925e2e973d6a71b90cb086f64b476fc/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/bc6f427e3f3e8ba971c664b01e57250c/default">
+                                <p class="color-white font-weight-bold mt-2">MusicHSWidget</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.offset">
+                    <div class="card card-small background-color-dominant-pink mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/761e0a045f8157629113a2206a5d5986/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/467e0f1b0a4d3c346d8808f5d9870644/default">
+                                <p class="color-white font-weight-bold mt-2">Offset</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.blurswitch">
+                    <div class="card card-small background-color-dominant-yellow mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/83e2d9d8bf26253c7f26e1bb6007fd78/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/2b494ec90fb9949904722167897614b8/default">
+                                <p class="color-white font-weight-bold mt-2">BlurSwitch</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.cutout">
+                    <div class="card card-small background-color-dominant-purple mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/a05a5529c4c367b742f98bc93c21c671/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/6cbae3968c5b3ffa76e1aabb60d63f94/default">
+                                <p class="color-white font-weight-bold mt-2">CutOut</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.droopbubbles">
+                    <div class="card card-small background-color-dominant-red mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/771b632a2b6572e1c8fcad2f66e900cb/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/c61bf820fa94a608c8e124315b9f08ef/default">
+                                <p class="color-white font-weight-bold mt-2">DroopBubbles</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.dopeconvos">
+                    <div class="card card-small background-color-dominant-green mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/ce92bcc96f3cf564ae5ef433d4266a86/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/b3b0c18a0046b706bb92a68d3b78d690/default">
+                                <p class="color-white font-weight-bold mt-2">DopeConvos</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.musicqueuebegone">
+                    <div class="card card-small background-color-dominant-pink mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/85de824cbc39e5517784d587e927fad9/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/3604c4b717a844717c4e6a2e53b535a6/default">
+                                <p class="color-white font-weight-bold mt-2">MusicQueueBeGone</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.mutevibes">
+                    <div class="card card-small background-color-dominant-red mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/035b1e7036ab59200a593388e065b63b/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/53324b1989ce13ebfcbcf6fff2a5b169/default">
+                                <p class="color-white font-weight-bold mt-2">MuteVibes</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.floatingdarkmode">
+                    <div class="card card-small background-color-dominant-purple mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/6a14ebeee874d66e5598704520f37f60/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/4b18a22186704bb638098f6acd261451/default">
+                                <p class="color-white font-weight-bold mt-2">FloatingDarkMode</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.dubdub">
+                    <div class="card card-small background-color-dominant-orange mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/a9cf47f10f98a953c8b43009b0cea227/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/231aaea81a23d38aba9f69a2a2282753/default">
+                                <p class="color-white font-weight-bold mt-2">DubDub</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.ifaded">
+                    <div class="card card-small background-color-dominant-purple mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/73170647f75419e901152abc15ec2ce4/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/16add56bffe803ff9537556c76da598d/default">
+                                <p class="color-white font-weight-bold mt-2">iFaded</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.n95themepack">
+                    <div class="card card-small background-color-dominant-yellow mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/b89c9d4eadcebd5d668515f76f12b5ae/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/f0a0130193d6e71e611aa2e0f0b8bd12/default">
+                                <p class="color-white font-weight-bold mt-2">N95ThemePack</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.volvibes">
+                    <div class="card card-small background-color-dominant-green mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/19550ee655d58efaf8be548df2f8b070/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/2605b040520ddbff5bc41d047c0745de/default">
+                                <p class="color-white font-weight-bold mt-2">VolVibes</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.bubblelineremover">
+                    <div class="card card-small background-color-dominant-green mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/a2b7dfcb275dcbdc6856da7159c63d03/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/b77b1b79d9fcba825715e5f7990ede4e/default">
+                                <p class="color-white font-weight-bold mt-2">BubbleLineRemover</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.n95">
+                    <div class="card card-small background-color-dominant-yellow mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/e29771111252945a15c88ef729a969a7/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/81739353499ea3b5758ac04b7e9ba96f/default">
+                                <p class="color-white font-weight-bold mt-2">N95</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.projectx">
+                    <div class="card card-small background-color-dominant-pink mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/395b16c378e4613efad5353269736da9/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/0fbd5def567fa59cb7ca6f3319308a2a/default">
+                                <p class="color-white font-weight-bold mt-2">ProjectX</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.ethan-whited.blurwall">
+                    <div class="card card-small background-color-dominant-green mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/794728f998e3a885488ca4249e0f57a1/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/df3e623268dfd392681aaa0dcdf71eea/default">
+                                <p class="color-white font-weight-bold mt-2">Blurwall</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                            </div>
+        </div>
+    </div>
+    
+</div>
+
+<div class="modal fade color-subtile"
+     id="reportModal"
+     tabindex="-1"
+     role="dialog"
+     aria-labelledby="reportModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog"
+         role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"
+                    id="reportModalLabel">New Report</h5>
+                <button type="button"
+                        class="close"
+                        data-dismiss="modal"
+                        aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form action="https://repo.twickd.com/package/com.twickd.ethan-whited.watchfacewidget/report"
+                  method="POST">
+                <input type="hidden" name="_token" value="BRfK5XEUFX0tfjQQ0dCf17zlA5OykNZNuOPk5cfg">                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="reportPackage"
+                               class="col-form-label">Package:</label>
+                        <input type="text"
+                               class="form-control"
+                               id="reportPackage"
+                               disabled
+                               value="WatchFaceWidget">
+                    </div>
+                    <div class="form-group">
+                        <label for="reportReason"
+                               class="col-form-label">Reason (280 characters maximum):</label>
+                        <textarea class="form-control"
+                                  name="reason"
+                                  id="reportReason"
+                                  maxlength="280"
+                                  required></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer flex-column">
+                    <p class="color-subtile">Be advised that abusing the report system will result in an instant termination of your account</p>
+                    <p class="color-dominant-red font-weight-bold mb-2">Do not use for support requests OR to request a refund!</p>
+                    <div class="d-flex justify-content-end w-100">
+                        <button type="button"
+                                class="btn btn-link btn-subtile"
+                                data-dismiss="modal">Cancel</button>
+                        <button type="submit"
+                                class="btn btn-primary">Send report</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+        </main>
+
+        
+                    <footer class="background-color-weak ">
+    <div class="container">
+        <div class="row reveal border-bottom border-color-smooth">
+            <div class="col-sm-12 col-md-12 col-lg-3 mb-3 reveal-1">
+                <div class="d-flex align-items-center pb-3 justify-content-center justify-content-md-start">
+                    <img src="https://repo.twickd.com/storage/static_images/logo_primary.svg" class="svg-42">
+                    <h3 class="color-strong pl-3">Twickd</h3>
+                </div>
+                <span class="d-none d-md-block">Hey listen, we know you're bored if you read this. So might as well come and chat with us on social medias!</span>
+
+                <div class="socials pt-3 d-none d-md-flex">
+                    <a href="https://twitter.com/TwickdRepo" class="btn-link btn-strong"><ion-icon size="large" name="logo-twitter"></ion-icon></a>
+                    <a href="https://github.com/Twickd" class="btn-link btn-strong pl-3"><ion-icon size="large" name="logo-github"></ion-icon></a>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-4 col-md-4 col-lg-3 pb-3 pb-sm-0 reveal reveal-2">
+                <h3 class="color-strong pb-0 pb-sm-3">Learn</h3>
+                <div class="row px-3">
+                    <div class="reveal-1 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://twickd.com" class="px-0 btn btn-link btn-primary">Home</a></div>
+                    <div class="reveal-3 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://twickd.com/news" class="px-0 btn btn-link btn-primary">News</a></div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4 col-md-4 col-lg-3 pb-3 pb-sm-0 reveal reveal-2">
+                <h3 class="color-strong pb-0 pb-sm-3">Explore</h3>
+                <div class="row px-3">
+                    <div class="reveal-2 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://repo.twickd.com" class="px-0 btn btn-link btn-primary">Repository</a></div>
+                    <div class="reveal-2 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://account.twickd.com" class="px-0 btn btn-link btn-primary">Account</a></div>
+                    <div class="reveal-2 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://developer.twickd.com/panel" class="px-0 btn btn-link btn-primary">Developer</a></div>
+                </div>
+            </div>
+
+                        <div class="col-12 col-sm-4 col-md-4 col-lg-3 reveal reveal-3">
+                <h3 class="color-strong pb-0 pb-sm-3">Latest News</h3>
+                                                    <div class="row px-3 mb-3 flex-column">
+                        <h5 class="color-subtile">The future of Twickd</h5>
+                        <a href="https://twickd.com/news/the-future-of-twickd">Read the article</a>
+                    </div>
+                                    <div class="row px-3 mb-3 flex-column">
+                        <h5 class="color-subtile">Become a Developer on Twickd in less than 5 minutes!</h5>
+                        <a href="https://twickd.com/news/become-a-developer-on-twickd-in-less-than-5-minutes">Read the article</a>
+                    </div>
+                            </div>
+                    </div>
+        <div class="row">
+            <div class="col-12 pt-3 d-flex flex-column align-items-center flex-md-row justify-content-md-between px-lg-0">
+                <p class="color-subtile">
+                    Copyright &copy; 2021 — Twickd
+                </p>
+                <div class="text-right">
+                    <a href="https://twickd.com/terms-of-services" class="color-subtile">Terms of Service</a> •
+                    <a href="https://twickd.com/privacy-policy" class="color-subtile">Privacy Policy</a> •
+                    <a href="https://twickd.com/developer-policy" class="color-subtile">Developer Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>            </div>
+
+    <a href="https://discord.gg/wXAfaCw" target="_open" class="alert background-color-primary text-center text-white alert-dismissible fade show" role="alert" style="position: fixed; bottom: 1rem; min-width: 270px; margin-left: -135px; left:50%;">
+        🏠 <strong>#StayHome</strong> with Twickd!
+        <button type="button" class="close" style="line-height: .8;" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </a>
+
+    
+    <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
+    </body>
+</html>

@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Twickd is the best place to experience next generation software. Join our amazing community and start sharing and finding amazing iOS Tweaks and Themes for your Perfect Jailbreak setup!">
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" href="https://twickd.com/images/favicon.png/96" sizes="96x96">
+    
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="BRfK5XEUFX0tfjQQ0dCf17zlA5OykNZNuOPk5cfg">
+    
+    <!-- Apple -->
+    <meta name="apple-mobile-web-app-title" content="Twickd">
+    <link rel="apple-touch-icon" href="https://twickd.com/images/favicon.png/120">
+    <link rel="apple-touch-icon" size="120x120" href="https://twickd.com/images/favicon.png/120">
+    <link rel="apple-touch-icon" size="180x180" href="https://twickd.com/images/favicon.png/180">
+
+    <!-- Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-159036453-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-159036453-1');
+    </script>
+
+    <!-- Meta -->
+            <meta property="og:url"
+      content="https://repo.twickd.com/package/com.twickd.mercury.illusion">
+<meta property="og:title"
+      content="Illusion — Twickd Repository">
+<meta property="og:description"
+      content="An awesome battery for your device using Juice">
+<meta property="og:image"
+      content="https://twickd.com/cdn/screenshots/8fd27edf56a3cd033edffa14cf8f9e24/default">
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="Twickd">
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@TwickdRepo" />
+    
+    <title>Illusion — Twickd</title>
+
+    <!-- Scripts -->
+    <script src="https://repo.twickd.com/js/app.js" defer></script>
+
+    <!-- Analytics -->
+    <!-- Styles -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    
+    <link href="https://repo.twickd.com/css/twickd.css" rel="stylesheet">
+</head>
+<body class="dark">
+    <div id="app" >
+                                                        <nav>
+
+    <div class="container h-100">
+        <div class="row align-items-center h-100">
+            <div class="col-4 col-sm-3">
+                                                                <a href="https://twickd.com" class="nav-brand">
+                                        <img src="https://repo.twickd.com/storage/static_images/logo_primary.svg" class="svg-42">
+                                    </a>
+            </div>
+    
+            <div class="navigation col-2 col-sm-6 text-center">
+                                                    <a href="https://repo.twickd.com" class="btn btn-link  btn-subtile ">Repository</a>
+                    <a href="https://twickd.com/news" class="btn btn-link  btn-subtile ">News</a>
+                    
+                                            </div>
+    
+            <div class="navigation-right col-6 col-sm-3 text-right">
+                <div class="btn-group">
+                    <a href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre
+                        class="dropdown-toggle  color-primary  d-flex align-items-center">
+                        <ion-icon name="ios-contact" size="large"></ion-icon>
+                        <div class="d-flex flex-column justify-content-center text-left color-subtile  mx-2" style="line-height: 1;">
+                                                            <span class="p-0 m-0">Sign In OR</span>
+                                <h6 class="font-weight-bold p-0 m-0 text-uppercase">Sign Up</h6>
+                                                    </div>
+                        <ion-icon name="ios-arrow-down"></ion-icon>
+                    </a>
+                    <div class="dropdown-menu dropdown-menu-right background-color-weak" aria-labelledby="navbarDropdown">
+                                                    <a class="dropdown-item btn-link btn-primary" href="https://twickd.com/login">Login</a>
+                                                            <a class="dropdown-item btn-link btn-primary" href="https://twickd.com/register">Register</a>
+                                                                        </div>
+                </div>
+    
+                    
+            </div>
+        </div>
+    </div>
+
+</nav>                                    
+
+        <main class="pt-4 pb-0  container-fluid">
+            
+<div class="container"
+     itemscope
+     itemtype="http://schema.org/Product">
+    <meta itemprop="brand"
+          content="Twickd">
+    <meta itemprop="sku"
+          content="com.twickd.mercury.illusion">
+
+    <div class="row">
+        <div class="col-12 px-0 px-sm-3 d-flex justify-content-between align-items-center">
+            <div class="left d-flex w-100 align-items-center">
+                                <img itemprop="image"
+                     src="https://twickd.com/cdn/screenshots/9a4d76d4a0dfa7fe389ff717386435cd/default"
+                     alt=""
+                     class="radius-15">
+                                
+                <div class="d-flex flex-column w-100 pl-3">
+                    <h1 itemprop="name"
+                        class="color-strong responsive">Illusion</h1>
+                    <div class="d-flex justify-content-between align-items-center">
+                        <a href="https://twickd.com/profile/Mercury"
+                           class="dev-infos btn-strong px-0 btn btn-link d-flex">
+                                                        
+                            <img data-src="https://twickd.com/images/favicon.png/24"
+                                 width="24"
+                                 height="24"
+                                 class="lazy rounded-circle mr-2">
+                                                        <p>
+                                Mercury
+                            </p>
+                                                    </a>
+                                            </div>
+                </div>
+            </div>
+                                    <div itemprop="offers"
+                 itemscope
+                 itemtype="http://schema.org/Offer">
+                <meta itemprop="price"
+                      content="0">
+                <meta itemprop="priceCurrency"
+                      content="USD">
+                <meta itemprop="url"
+                      content="https://repo.twickd.com/package/com.twickd.mercury.illusion">
+                <span class="btn btn-price btn-dominant-cyan">FREE</span>
+            </div>
+                                </div>
+    </div>
+
+    
+    <div class="row">
+        <div class="col-12 px-0 px-sm-3 d-flex flex-column">
+            <ul class="nav nav-tabs border-color-smooth justify-content-around"
+                id="depictionNav"
+                role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active nav-link-dominant-cyan"
+                       id="detail-tab"
+                       data-toggle="tab"
+                       href="#detail"
+                       role="tab"
+                       aria-controls="detail"
+                       aria-selected="true">Detail</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-dominant-cyan"
+                       id="changelog-tab"
+                       data-toggle="tab"
+                       href="#changelog"
+                       role="tab"
+                       aria-controls="changelog"
+                       aria-selected="false">Changelog</a>
+                </li>
+            </ul>
+                                    <div class="tab-content"
+                 id="depictionNavContent">
+
+                <div class="tab-pane show active color-strong"
+                     id="detail"
+                     role="tabpanel"
+                     aria-labelledby="detail-tab">
+                    <p itemprop="description"
+                       class="font-weight-bold py-4">An awesome battery for your device using Juice</p>
+                    <div class="ads full-width">
+                        
+                        <script async
+                                type="text/javascript"
+                                src="//cdn.carbonads.com/carbon.js?serve=CE7D5K3W&placement=twickdcom"
+                                id="_carbonads_js"></script>
+                    </div>
+                    <div id="screenshots"
+                         class="screenshot-carousel">
+                                                <div class="position-relative">
+                                                                                     <img data-src="https://twickd.com/cdn/screenshots/281e27821ec00c6ce6286edce84b7b35/default"
+                                 class="img-fluid screenshot lazy">                                                     </div>
+                                            </div>
+                    <div class="description markdown">
+                        <p>Illusion by Mercury</p>
+<p>An awesome battery for your idevice using Juice by Sparkdev</p>                    </div>
+                </div>
+
+                <div class="tab-pane"
+                     id="changelog"
+                     role="tabpanel"
+                     aria-labelledby="changelog-tab">
+                                        <div class="changelog py-3">
+                        <h4 class="font-weight-bold color-strong">Version 1.0</h4>
+                        <p class="color-subtile"><p>Initial Release</p></p>
+                    </div>
+                                    </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<section id="informations"
+         class="background-color-smooth row mt-4">
+    <div class="container">
+        <h3 class="color-strong pb-3">Informations</h3>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-4">
+                <ul class="list-group background-color-smooth border-0">
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">Version</span>
+                        <span class="color-strong">1.0</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">Updated</span>
+                        <span class="color-strong">Dec 11, 2019</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">Price</span>
+                        <span class="color-strong">
+                                                        Free
+                                                    </span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <span class="color-subtile">iOS Version(s)</span>
+                        <span class="color-strong">12.2 - 13.3</span>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="d-none d-lg-block col-lg-4">
+                <a href="mailto:mercuryiosdev@gmail.com?subject=[Support][Illusion]"
+                   class="btn btn-weak color-dominant-cyan w-100 py-3 px-0 px-md-3 justify-content-between align-items-center d-flex ">
+                    Contact the Support
+                    <ion-icon name="ios-arrow-forward"></ion-icon>
+                </a>
+                            </div>
+            <div class="d-none d-lg-block col-lg-4">
+                <a href="#"
+                   class="btn btn-weak mb-3 color-dominant-cyan w-100 py-3 px-0 px-md-3 justify-content-between align-items-center d-flex disabled">
+                    Gift to a Friend
+                    <ion-icon name="ios-arrow-forward"></ion-icon>
+                </a>
+                <a href="https://gift.twickd.com/redeem"
+                   class="btn btn-weak color-dominant-cyan w-100 py-3 px-0 px-md-3 justify-content-between align-items-center d-flex  disabled ">
+                    Redeem a Gift Code
+                    <ion-icon name="ios-arrow-forward"></ion-icon>
+                </a>
+            </div>
+
+            <div class="d-flex d-lg-none col-12">
+                <ul class="list-group border-0 w-100">
+                    <li class="list-group-item">
+                        <a href="mailto:mercuryiosdev@gmail.com?subject=[Support][Illusion]"
+                           class="btn p-0 justify-content-between align-items-center d-flex w-100 btn-link  btn-dominant-cyan">Contact the Support <ion-icon name="ios-arrow-forward"></ion-icon></a>
+                    </li>
+                                        <li class="list-group-item">
+                        <a href="#"
+                           class="btn p-0 justify-content-between align-items-center d-flex w-100 btn-link btn-dominant-cyan disabled">Gift to a Friend <ion-icon name="ios-arrow-forward"></ion-icon></a>
+                    </li>
+                    <li class="list-group-item">
+                                                <a href="https://gift.twickd.com/redeem"
+                           class="btn p-0 justify-content-between align-items-center d-flex w-100 btn-link btn-dominant-cyan">Redeem a Gift Code <ion-icon name="ios-arrow-forward"></ion-icon></a>
+                                            </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<div id="moreby"
+     class="container pt-60">
+    <div class="row">
+        <div class="col-12">
+            <h3 class="color-strong pb-3">More by <a href="https://twickd.com/profile/Mercury"
+                   class="color-primary">Mercury<a></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="cards card-carousel"
+                 id="featured-cards">
+                                <a href="https://repo.twickd.com/package/com.twickd.mercury.melios-beta">
+                    <div class="card card-small background-color-dominant-cyan mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/e59605e14173af2533f1ccde1714c47e/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/bcfe056a36cf8ccec612571147fbcb81/default">
+                                <p class="color-white font-weight-bold mt-2">MeliOS (Beta)</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mercury.blendmw">
+                    <div class="card card-small background-color-dominant-cyan mr-3">
+                        <img data-src="https://twickd.com/cdn/package/com.twickd.mercury.blendmw/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/215530b00a16cca8c3dc3045ef743194/default">
+                                <p class="color-white font-weight-bold mt-2">BlendMW</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mercury.padonemw">
+                    <div class="card card-small background-color-dominant-cyan mr-3">
+                        <img data-src="https://twickd.com/cdn/package/com.twickd.mercury.padonemw/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/fce9af7b3e9d88bf52537e3137648297/default">
+                                <p class="color-white font-weight-bold mt-2">PadOneMW</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mercury.shade">
+                    <div class="card card-small background-color-dominant-cyan mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/66707c50eb86e9bcbbf955b206ca91c8/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/68ddc2296854a2518432b5cd85954df7/default">
+                                <p class="color-white font-weight-bold mt-2">Shade</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                                <a href="https://repo.twickd.com/package/com.twickd.mercury.classy">
+                    <div class="card card-small background-color-dominant-blue mr-3">
+                        <img data-src="https://twickd.com/cdn/screenshots/9706c6d779b2b4e2c19d7b368fff842e/296"
+                             alt=""
+                             class="card-image lazy">
+                        <div class="card-body">
+                            <div class="card-infos">
+                                <img class="img-fluid svg-42"
+                                     src="https://twickd.com/cdn/screenshots/8ce0dac818b709e1ee6e200389313dcc/default">
+                                <p class="color-white font-weight-bold mt-2">Classy</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                            </div>
+        </div>
+    </div>
+    
+</div>
+
+<div class="modal fade color-subtile"
+     id="reportModal"
+     tabindex="-1"
+     role="dialog"
+     aria-labelledby="reportModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog"
+         role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"
+                    id="reportModalLabel">New Report</h5>
+                <button type="button"
+                        class="close"
+                        data-dismiss="modal"
+                        aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form action="https://repo.twickd.com/package/com.twickd.mercury.illusion/report"
+                  method="POST">
+                <input type="hidden" name="_token" value="BRfK5XEUFX0tfjQQ0dCf17zlA5OykNZNuOPk5cfg">                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="reportPackage"
+                               class="col-form-label">Package:</label>
+                        <input type="text"
+                               class="form-control"
+                               id="reportPackage"
+                               disabled
+                               value="Illusion">
+                    </div>
+                    <div class="form-group">
+                        <label for="reportReason"
+                               class="col-form-label">Reason (280 characters maximum):</label>
+                        <textarea class="form-control"
+                                  name="reason"
+                                  id="reportReason"
+                                  maxlength="280"
+                                  required></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer flex-column">
+                    <p class="color-subtile">Be advised that abusing the report system will result in an instant termination of your account</p>
+                    <p class="color-dominant-red font-weight-bold mb-2">Do not use for support requests OR to request a refund!</p>
+                    <div class="d-flex justify-content-end w-100">
+                        <button type="button"
+                                class="btn btn-link btn-subtile"
+                                data-dismiss="modal">Cancel</button>
+                        <button type="submit"
+                                class="btn btn-primary">Send report</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+        </main>
+
+        
+                    <footer class="background-color-weak ">
+    <div class="container">
+        <div class="row reveal border-bottom border-color-smooth">
+            <div class="col-sm-12 col-md-12 col-lg-3 mb-3 reveal-1">
+                <div class="d-flex align-items-center pb-3 justify-content-center justify-content-md-start">
+                    <img src="https://repo.twickd.com/storage/static_images/logo_primary.svg" class="svg-42">
+                    <h3 class="color-strong pl-3">Twickd</h3>
+                </div>
+                <span class="d-none d-md-block">Hey listen, we know you're bored if you read this. So might as well come and chat with us on social medias!</span>
+
+                <div class="socials pt-3 d-none d-md-flex">
+                    <a href="https://twitter.com/TwickdRepo" class="btn-link btn-strong"><ion-icon size="large" name="logo-twitter"></ion-icon></a>
+                    <a href="https://github.com/Twickd" class="btn-link btn-strong pl-3"><ion-icon size="large" name="logo-github"></ion-icon></a>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-4 col-md-4 col-lg-3 pb-3 pb-sm-0 reveal reveal-2">
+                <h3 class="color-strong pb-0 pb-sm-3">Learn</h3>
+                <div class="row px-3">
+                    <div class="reveal-1 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://twickd.com" class="px-0 btn btn-link btn-primary">Home</a></div>
+                    <div class="reveal-3 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://twickd.com/news" class="px-0 btn btn-link btn-primary">News</a></div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4 col-md-4 col-lg-3 pb-3 pb-sm-0 reveal reveal-2">
+                <h3 class="color-strong pb-0 pb-sm-3">Explore</h3>
+                <div class="row px-3">
+                    <div class="reveal-2 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://repo.twickd.com" class="px-0 btn btn-link btn-primary">Repository</a></div>
+                    <div class="reveal-2 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://account.twickd.com" class="px-0 btn btn-link btn-primary">Account</a></div>
+                    <div class="reveal-2 px-0 col-6 col-sm-6 col-md-12 col-lg-12"><a href="https://developer.twickd.com/panel" class="px-0 btn btn-link btn-primary">Developer</a></div>
+                </div>
+            </div>
+
+                        <div class="col-12 col-sm-4 col-md-4 col-lg-3 reveal reveal-3">
+                <h3 class="color-strong pb-0 pb-sm-3">Latest News</h3>
+                                                    <div class="row px-3 mb-3 flex-column">
+                        <h5 class="color-subtile">The future of Twickd</h5>
+                        <a href="https://twickd.com/news/the-future-of-twickd">Read the article</a>
+                    </div>
+                                    <div class="row px-3 mb-3 flex-column">
+                        <h5 class="color-subtile">Become a Developer on Twickd in less than 5 minutes!</h5>
+                        <a href="https://twickd.com/news/become-a-developer-on-twickd-in-less-than-5-minutes">Read the article</a>
+                    </div>
+                            </div>
+                    </div>
+        <div class="row">
+            <div class="col-12 pt-3 d-flex flex-column align-items-center flex-md-row justify-content-md-between px-lg-0">
+                <p class="color-subtile">
+                    Copyright &copy; 2021 — Twickd
+                </p>
+                <div class="text-right">
+                    <a href="https://twickd.com/terms-of-services" class="color-subtile">Terms of Service</a> •
+                    <a href="https://twickd.com/privacy-policy" class="color-subtile">Privacy Policy</a> •
+                    <a href="https://twickd.com/developer-policy" class="color-subtile">Developer Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>            </div>
+
+    <a href="https://discord.gg/wXAfaCw" target="_open" class="alert background-color-primary text-center text-white alert-dismissible fade show" role="alert" style="position: fixed; bottom: 1rem; min-width: 270px; margin-left: -135px; left:50%;">
+        🏠 <strong>#StayHome</strong> with Twickd!
+        <button type="button" class="close" style="line-height: .8;" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </a>
+
+    
+    <script src="https://unpkg.com/ionicons@4.5.5/dist/ionicons.js"></script>
+    </body>
+</html>
